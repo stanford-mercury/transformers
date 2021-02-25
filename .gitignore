@@ -162,3 +162,6 @@ tags
 
 # .lock
 *.lock
+
+# datasets
+datasets/
